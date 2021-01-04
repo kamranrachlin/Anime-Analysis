@@ -13,7 +13,7 @@ I approached this project from the perspective of Netflix, or one of its competi
 ## The Results
 Results and analyses have been layed out in four parts. As they share common factors, it is recommend to read them in order:
 
-Initial EDA
+Cleaning and Initial EDA
 
 Understanding Anime
 
