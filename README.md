@@ -15,7 +15,7 @@ Process, results and analyses have been laid out in four parts. As they share co
 
 [Initial Cleaning](https://github.com/kamranrachlin/Anime-Analysis/blob/master/Initial%20Cleaning.md)
 
-[Understanding Anime](https://github.com/kamranrachlin/Anime-Analysis/blob/master/Understanding%20Anime)
+[Understanding Anime](https://github.com/kamranrachlin/Anime-Analysis/blob/master/Understanding%20Anime.md)
 
 [Understanding the Community](https://github.com/kamranrachlin/Anime-Analysis/blob/master/Understanding%20the%20Community.md)
 
