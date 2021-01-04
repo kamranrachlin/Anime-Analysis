@@ -1,18 +1,18 @@
 # Anime-Analysis
 An analysis into the anime community based on a 2018 dataset [found here](https://www.kaggle.com/azathoth42/myanimelist)
-## Introduction
+## Anime
 Anime is a term used in English to refer to Japanese animation. The Japanese animation industry is rather unique, and has had a cult following in the west for well over 30 years, a following that has only grown in recent years. Anime was, and perhaps still is, best associated in the west with a series of films released by Studio Ghibli from the late 1980s to the early 2000s to much critical acclaim. These titles include Princess Mononoke (1997), My Neighbor Totoro (1988), and Oscar winning Spirited Away (2001). In recent times, however, more attention has been given to the wide birth of other anime that has been and is being produced, and it's cultural impact is evident, from a character from Darling in the Franxx (2018) on [Kim Kardashian West's Instagram Page](https://www.instagram.com/p/Bf655uvFf0T/?hl=en) to a shout out to Your Name (2016) on [Elon Musk's twitter page](https://twitter.com/elonmusk/status/1051377948916215810?lang=en). Anime has a growing global market, currently valued at upwards of £15 Billion. Netflix in particular has in recent years put a focus on attaining the rights to a number of anime, claiming to have had over 30 Netflix original anime at various stages production in 2017, attaining the rights to cult classic Neon Gensis Evangelion (1995) in 2019, and the rights to a number of the afforementioned Studio Ghibli films in Europe in 2020. This appears to be paying off, as in Ocotober they announced that over 100 Million households worldwide had watched Anime in since the previous September, a rise of 50%. It is clear then, that there is value in anime.
 
-
+## The Data
 [My Anime List](https://myanimelist.net) is one of the largest websites dedicated to anime and anime ratings. Users create a profile, on which they have a list with every anime that have rated on the website. Ratings are made on a discrete scale of 1-10.
 I had originally planned to produce this project by scraping original data from My Anime List, however the size of this dataset made it too attractive to pass up, even if it is slightly outdated. The Dataset contained 80 million recordings, however following the initial EDA and subsequent cleanup, this was reduced to about 20 million, which was still enough to give my hardware issues at times. I hope to advance this project further using AWS at some point in the future.
 
+## The Approach
 I approached this project from the perspective of Netflix, or one of its competitors, attempting to find valuable information from this dataset. Therefore, the primary aims of this project were to gain insights into the anime community, the factors that lead to an anime being highly rated, and to invesitgate the viability of building a reccomendation engine for anime using the data, all three of which might be valuable insights to a company such as Netflix.
 
-## EDA
-One of the first things I looked at was how ratings were distributed. Overall, the shows had a somewhat normal distribution around a mean of just under 7. There was a slight tail to the left, but only minor, as the mean and media were still very close, and is likely a consequence of having the mean positioned so far off centre. An interesting point of notice was the effect that genre had on the average rating. 
-IMAGE 1
-As you can see, there is a stark difference between 
-
-## So What Makes a Good Anime?
-One of the first things I wanted to look at was what factors predict the critical acclaim. I first investigated the distribution of scores for different shows. 
+## The Results
+Results and analyses have been layed out in four parts. As they share common factors, it is recommend to read them in order:
+Initial EDA
+Understanding Anime
+Understanding the Community
+Reccomendation Engine
