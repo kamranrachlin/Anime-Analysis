@@ -11,7 +11,7 @@ I had originally planned to produce this project by scraping original data from 
 I approached this project from the perspective of Netflix, or one of its competitors, attempting to find valuable information from this dataset. Therefore, the primary aims of this project were to gain insights into the anime community, the factors that lead to an anime being highly rated, and to investigate the viability of building a recommendation engine for anime using the data, all three of which might be valuable insights to a company such as Netflix.
 
 ## The Results
-Process, results and analyses have been laid out in four parts. As they share common factors, it is recommend to read them in order:
+Process, results and analyses have been laid out in four parts. As they share common factors, it is recommended to read them in order:
 
 [Initial Cleaning](https://github.com/kamranrachlin/Anime-Analysis/blob/master/Initial%20Cleaning.md)
 
