@@ -22,3 +22,5 @@ The full process, results and analyses have been laid out in four parts. As they
 [Understanding the Community](https://github.com/kamranrachlin/Anime-Analysis/blob/master/Understanding%20the%20Community.md)
 
 [Recommendation Engine](https://github.com/kamranrachlin/Anime-Analysis/blob/master/Recommendation%20Engine.md)
+
+The slides of a presentation based on an early version of this project can be found [here](https://docs.google.com/presentation/d/1-RxgS6i8_6-tbyKVt2wjApyxqs-bpdMry0NDbs_THgQ/edit?usp=sharing), though not all information on these slides can be considered the most up to date.
