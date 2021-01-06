@@ -11,7 +11,9 @@ I had originally planned to produce this project by scraping original data from 
 I approached this project from the perspective of Netflix, or one of its competitors, attempting to find valuable information from this dataset. Therefore, the primary aims of this project were to gain insights into the anime community, the factors that lead to an anime being highly rated, and to investigate the viability of building a recommendation engine for anime using the data, all three of which might be valuable insights to a company such as Netflix.
 
 ## The Results
-Process, results and analyses have been laid out in four parts. As they share common factors, it is recommended to read them in order:
+As a summary, I found that general trends suggest that mature, non-sexualised content is better received by audiences, whilst sexualised content is generally poorly received. Further analysis shows, however, that other factors, particularly the animation studio, have a more significant impact. I found that viewers do not cluster particularly well on their preferences, however their preferences do in some way give information correlating with what their gender might be. It is suggested, based on the evidence, that female marketed content may be more divisive than male marketed content. Finally, it was shown that improvements can be made to a baseline recommendation system, however I arguably did not find a model strong enough to make a useful product.
+
+The full process, results and analyses have been laid out in four parts. As they share common factors, it is recommended to read them in order:
 
 [Initial Cleaning](https://github.com/kamranrachlin/Anime-Analysis/blob/master/Initial%20Cleaning.md)
 
